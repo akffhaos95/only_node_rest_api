@@ -6,6 +6,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-node": "^11.1.0",
+    "nodemon": "^2.0.12",
     "prettier": "^2.3.2",
     "typescript": "^4.3.5"
   },
@@ -109,7 +110,8 @@
   },
   "scripts": {
     "test": "echo \"hello\"",
-    "debug": "node src/main.js"
+    "debug": "node src/main.js",
+    "server": "nodemon src/main.js"
   },
   "keywords": [],
   "author": "",
