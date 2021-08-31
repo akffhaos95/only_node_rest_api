@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": "id1", "title": "내 첫번째", "content": "content1!!!" },
+    { "id": "id2", "title": "title2", "content": "content2" },
+    { "id": "foo", "title": "foo", "content": "content" },
+    { "id": "foo", "title": "foo", "content": "content" }
+  ]
+}
